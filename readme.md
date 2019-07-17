@@ -1,3 +1,8 @@
 # Shawn Charles
-<br>
 Just a beginning...
+
+## Kittens
+Baskie
+Chupie
+Becky
+Burr
